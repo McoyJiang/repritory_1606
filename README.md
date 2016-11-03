@@ -1,2 +1,2 @@
 # repritory_1606
-演示github的简单使用
+show how to use git tool t commit code to github
